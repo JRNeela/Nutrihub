@@ -8,7 +8,7 @@ Rishabh Ranganathan, rranga8@illinois.edu
 ## Inspiration
 The inspiration behind NutriHub stemmed from the need for an easy-to-use platform that helps individuals track their nutrition and fitness progress. With the increasing importance of personal health and wellness, there was a need to provide users with tools to monitor their nutritional intake and exercise routines in one seamless platform. The goal was to empower users to make healthier choices and reach their fitness goals more effectively.
 ## What it does
-NutriHub allows users to log and track their meals, nutritional intake, and workouts. It provides real-time insights into daily calorie consumption, macronutrient distribution (carbs, protein, fats), and fitness progress.
+NutriHub allows users to log and track their meals and nutritional intake. It provides real-time insights into daily calorie consumption, macronutrient distribution (carbs, protein, fats), and fitness progress.
 
 ## How we built it
 NutriHub was built using a full-stack JavaScript environment, combining Node.js for the backend and React for the frontend. The backend uses Express for routing, MongoDB for database management, and integrates several services to calculate nutritional data from user inputs. Frontend development leverages React to create an interactive and responsive user interface, ensuring the application is accessible across different devices. The platform also includes middleware for security, error handling, and user authentication.
