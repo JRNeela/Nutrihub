@@ -1,5 +1,6 @@
 # Nutrihub
 _Tracking your diet, one snapshot at a time_
+## Team Members
 Anmol Dash, anmold@sas.upenn.edu
 Joshua Neela, jneel5@illinois.edu
 Rishabh Ranganathan, rranga8@illinois.edu
